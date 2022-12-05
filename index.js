@@ -300,13 +300,3 @@ const bird = {
     // groupE.splice(1,1)
     // groupE.splice(2)
     // console.log(groupE)
-
-
-
-
-
-
-
-
-
-
